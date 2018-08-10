@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: SpringBootTest
-Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: Eren
-Implementation-Vendor-Id: com.erenspring
-Build-Jdk: 1.8.0_121
-Created-By: Maven Integration for Eclipse
-Implementation-Vendor: Pivotal Software, Inc.
-
